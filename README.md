@@ -19,7 +19,7 @@ The algorithm can work with three types of data:
 <li>bytes,</li>
 <li>bytearray.</li>
 </ul>
-Except key. Key is always a string.
+Except key. Key is always a string. <br>
 
 There are the following files:
 <ul>
