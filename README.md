@@ -14,12 +14,12 @@ There is also a requirements.txt.
 
 ## Description
 The algorithm can work with three types of data:
-<ol>
+<ul>
 <li>string,</li>
 <li>bytes,</li>
 <li>bytearray.</li>
-</ol>
-Except key. key is always a string.
+</ul>
+Except key. Key is always a string.
 
 There are the following files:
 <ul>
@@ -30,6 +30,6 @@ There are the following files:
 <li> and finally the main.py, where stored functions for testing the RC6 algorithm, calculation of the average avalanche effect and the main function for encryption and decryption. </li>
 </ul>
 
-This program was created for my course work, and it free to use :D
-Good luck!
+This program was created for my course work, and it free to use :D <br>
+Good luck!<br>
 [SirPelmesh](https://github.com/SirPelmesh)
